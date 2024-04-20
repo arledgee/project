@@ -1,0 +1,127 @@
+.newbody{
+    background-color: floralwhite;
+    text-align: center;
+    border-style: double;
+    border-width: 10px;
+}
+.UTimage{
+    width: 560px;
+    height: 315px;
+    border-style: dotted;
+    border-width: 3px;
+}
+
+div.order{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+.title{
+    color: salmon;
+    font-weight: bolder;
+}
+.video{
+    font-weight: lighter;
+    text-decoration: underline;
+}
+div.line{
+  bottom: 10px;
+  width: 500px;
+  border: 1.75px solid #73AD21;
+  margin: auto;
+  width: 70%;
+  
+}
+div.line1{
+    bottom: 10px;
+    width: 500px;
+    border: 1.75px solid #73AD21;
+    margin: auto;
+    width: 85%;
+    
+  }
+.tableau{
+    width: 560px;
+    height: 315px;
+    
+  }
+  .bod{
+    text-align: center;
+    background-color: aliceblue;
+  }
+  .resume{
+    font-size: 50px;
+  }
+  .about{
+    text-decoration: underline;
+    font-size: 30px;
+  }
+  .number{
+    color: darkblue;
+  }
+  .email{
+    color: darkblue;
+  }
+  .experience{
+    text-align: left;
+    color: cornflowerblue;
+    font-weight: bolder;
+    font-size: 26px;
+  }
+  .library{
+    text-align: left;
+  }
+  .librarydate{
+    font-size: 15px;
+  }
+  .librarycafe{
+    text-decoration: underline; 
+  }
+  .nanny{
+    text-align: left;
+  }
+  .nannydate{
+    font-size: 15px;
+  }
+  .nan{
+    text-decoration: underline; 
+  }
+
+  .university{
+    text-align: left;
+  }
+  .byudate{
+    font-size: 15px;
+  }
+  .byu{
+    text-decoration: underline; 
+  }
+
+  .highschool{
+    text-align: left;
+  }
+  .schooldate{
+    font-size: 15px;
+  }
+  .school{
+    text-decoration: underline; 
+  }
+
+  .scholarship{
+    text-align: left;
+  }
+  
+  .scholar{
+    text-decoration: underline; 
+  }
+
+  .honors{
+    text-align: left;
+  }
+  
+  .opportunity{
+    text-decoration: underline; 
+  }
+.tableauPlaceholder{
+    text-align: center;
+}
+ 
